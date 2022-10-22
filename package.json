@@ -2,20 +2,20 @@
   "name": "itcats",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://xxAmnesiAxxтьз.github.io/itcats",
+  "homepage": "https://SergeyMark.github.io/icecream",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /itcats/"
+    "build": "parcel build src/*.html --public-url /icecream/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xxAmnesiAxxтьз/itcats.git"
+    "url": "git+https://github.com/SergeyMark/icecream.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/xxAmnesiAxxтьз/itcats/issues"
+    "url": "https://github.com/SergeyMark/icecream/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
